@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Icarus", "Icarus\Icarus.csproj", "{878181AF-DFC5-42AD-9850-4282A774DEAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878181AF-DFC5-42AD-9850-4282A774DEAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878181AF-DFC5-42AD-9850-4282A774DEAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878181AF-DFC5-42AD-9850-4282A774DEAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878181AF-DFC5-42AD-9850-4282A774DEAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A72936EC-3B22-40C4-93DA-8582891DDC7B}
+	EndGlobalSection
+EndGlobal
